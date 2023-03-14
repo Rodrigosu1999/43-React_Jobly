@@ -1,0 +1,48 @@
+.card {
+    color: #282b2f;
+    border: 10px solid rgba(218, 212, 212, 0.63);
+    box-shadow: inset 0 0 0 2px #ffffff;
+    box-sizing: border-box;
+    border-radius: 0;
+    box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.14),
+    0 3px 1px -2px rgba(0, 0, 0, 0.12), 0 1px 5px 0 rgba(0, 0, 0, 0.2);
+    margin-bottom: 5vh;
+    word-wrap: break-word;
+}
+
+.card a:hover{
+    color: #706cc8;
+}
+
+/* Jobs Cards */
+.Job-Card {
+    margin: auto;
+    margin-bottom: 20px;
+    width: 50%;
+    max-height: 250px;
+}
+
+.Job-Card .card-title {
+    font-size: 1.5rem;
+    text-decoration: none;
+    color: #282b2f;
+}
+.Job-Card a {
+    font-size: 1.2rem;
+    text-decoration: none;
+    color: #282b2f;
+}
+
+/* Companies Cards */
+.Company-Card {
+    width: 1000px;
+    font-size: 1.2rem;
+    max-height: 250px;
+}
+.Company-Card a{
+    font-size: 1.5rem;
+    text-decoration: none;
+    color: #282b2f;
+}
+
+

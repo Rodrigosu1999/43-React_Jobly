@@ -1,0 +1,21 @@
+.Welcome {
+  width: 50vw;
+  height: 300px;
+  align-items: center;
+}
+
+.Welcome h3 {
+  font-size: 4rem;
+}
+
+.Welcome button {
+  margin: 10px;
+}
+
+.Welcome-In {
+  padding: 75px 0;
+}
+
+.Welcome-Anon {
+  padding: 40px 0;
+}
